@@ -8,7 +8,7 @@
 
 - ⚙️ Throughout my ongoing journey in the world of computer science, I try to explore as much as I can. I'm intrigued by the possibilities of machine learning and building applications to showcase them to the world.
 
-- 💡 Check out my most recent project here:
+- 💡 Check out my most recent project here: <a href = "https://github.com/VedankPande/FitWave">FitWave</a>
 
 - 🌱 Currently, I'm learning more about systems design and advanced machine learning concepts
 

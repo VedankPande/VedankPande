@@ -27,7 +27,7 @@
 
 <br>
 <h1> Contact Me </h1>
-I'm always eager to meet new people, you can message me on Linkedin or send me an email to get in touch!
+I'm always eager to connect with new people, you can message me on Linkedin or send me an email to get in touch!
 <br><br>
 <a href = 'https://www.linkedin.com/in/vedank-pande/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 <a href ='mailto:vedank.pande@gmail.com'> <img width="32px" align = 'center' src = 'https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png'/></a>
